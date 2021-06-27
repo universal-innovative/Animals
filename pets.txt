@@ -6,5 +6,4 @@ stevie chickens
 monty 
 pocha
 George
-Mogli
 Jini
